@@ -1,15 +1,19 @@
-var vienna
+var vienna;
 
-console.log('Hello from vienna')
+console.log("Hello from vienna");
 
-var insbruck
+var insbruck;
 
-var salzburg
+var salzburgasas;
 
-var linz
+var linz;
 
-var graz
+var graz;
 
-var villach
+var villach;
 
-var bregenzas
+var bregenzas;
+
+var bregenzas;
+
+var eaaaa;
