@@ -6,8 +6,10 @@
   "scripts": {
     "start": "node",
     "lint": "eslint",
+    "postinstall": "husky install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "private": true,
   "keywords": [],
   "author": "elanioazul_hugo",
   "license": "ISC",
