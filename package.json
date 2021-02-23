@@ -2,14 +2,14 @@
   "name": "finalhusky",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "helloWorld.js",
   "scripts": {
     "start": "node",
     "lint": "eslint",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "elanioazul_hugo",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^7.20.0",
