@@ -1,14 +1,14 @@
 var vienna;
 
-console.log("Hello from vienna");
+console.log('Hello from vienna');
 
 var insbruck;
 
 var salzburgasas;
 
-var linz;
+        var linz;
 
-var graz;
+        var graz;
 
 var villach;
 
