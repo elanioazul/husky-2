@@ -12,4 +12,4 @@ var graz
 
 var villach
 
-var bregenz
+var bregenzas
