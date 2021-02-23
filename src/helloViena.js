@@ -7,3 +7,5 @@ var insbruck
 var salzburg
 
 var linz
+
+var graz
