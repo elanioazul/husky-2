@@ -11,3 +11,5 @@ var linz
 var graz
 
 var villach
+
+var bregenz
